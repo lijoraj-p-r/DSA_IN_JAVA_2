@@ -1,6 +1,5 @@
 package com.Dsjava.Array;
 
-import jdk.internal.org.jline.terminal.TerminalBuilder.SystemOutput;
 
 public class ArraySumup {
 
