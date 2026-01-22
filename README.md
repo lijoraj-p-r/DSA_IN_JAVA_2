@@ -1,4 +1,4 @@
-
+<meta name="google-site-verification" content="5XPIvItAqVK290Nt-KTmU8WjLyFyvAS7l9yLrWf9044" />
 # 🚀 DSA in Java: The Ultimate Collection 🧠
 
 Welcome to the **DSA_IN_JAVA_2** repository! This is a curated collection of Data Structures and Algorithms implemented from scratch in Java. Whether you are prepping for interviews or mastering the fundamentals, this repo covers everything from basic arrays to advanced sliding window problems.
